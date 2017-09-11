@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //This is master
+        //This is not really master
+        String bobby = "I am Bobby Dog" ;
+        int bobbyho = 9;
     }
 }
